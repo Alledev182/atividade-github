@@ -1,28 +1,47 @@
-# 📘 Atividade – Criação de Repositório no GitHub
+# Simulador de Investimentos em Fundos Imobiliários (FII)
 
-## 📌 Objetivo
-Este repositório foi criado como parte de uma atividade prática com o objetivo de aprender a criar e organizar um repositório público no GitHub.
+Este projeto foi desenvolvido como parte de um desafio da DIO com o objetivo de aplicar conceitos de Excel na criação de uma ferramenta de simulação de investimentos em fundos imobiliários.
 
-## 🧠 O que eu aprendi
-- Criar um repositório público no GitHub
-- Editar arquivos diretamente pelo navegador
-- Utilizar Markdown para formatação do README
-- Organizar arquivos e pastas dentro de um projeto
+O simulador permite ao usuário estimar o valor investido, o patrimônio acumulado e os dividendos mensais ao longo do tempo.
 
-## 📂 Estrutura do Repositório
-- README.md → Documentação principal do projeto
-- /images → Pasta contendo capturas de tela do processo (opcional)
-- Outros arquivos relevantes para documentação da experiência
+## Objetivo do Projeto
 
-## 🛠️ Ferramentas Utilizadas
+Criar uma planilha em Excel que auxilie investidores a:
+- Simular investimentos em fundos imobiliários
+- Visualizar rendimentos mensais
+- Compreender o impacto do tempo e do valor investido
+
+## Conceitos Aplicados
+
+- Fundos Imobiliários (FII)
+- Aportes mensais
+- Taxa de rendimento
+- Cálculo de dividendos
+- Automatização de cálculos no Excel
+
+## Estrutura da Planilha
+
+A planilha foi organizada para facilitar o uso, contendo:
+- Valor do investimento inicial
+- Aporte mensal
+- Taxa de rendimento mensal
+- Tempo de investimento
+- Cálculo automático de dividendos
+- Patrimônio acumulado ao longo do período
+
+## Ferramentas Utilizadas
+
+- Microsoft Excel
 - GitHub
-- Navegador Web
-- Editor de texto online do GitHub
+- GitHub Markdown
 
-## 📸 Capturas de Tela
-As capturas de tela do processo de criação do repositório estão disponíveis na pasta `/images`.
+## Aprendizados
 
-## ✍️ Considerações Finais
-Essa atividade foi importante para compreender melhor como funciona o GitHub e como ele pode ser utilizado para versionamento e organização de projetos.
-# atividade-github
-Repositório criado para documentar minha experiência com GitHub
+Com este desafio, foi possível compreender melhor:
+- Como funcionam os fundos imobiliários
+- A importância da simulação antes de investir
+- Como documentar projetos técnicos no GitHub
+
+## Considerações Finais
+
+Este projeto contribuiu para o desenvolvimento de habilidades técnicas em Excel e para a prática de documentação, facilitando o compartilhamento e a compreensão do projeto por outros usuários.
